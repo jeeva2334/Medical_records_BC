@@ -11,7 +11,7 @@
 }
 
 .footer {
-    background-color: violet;
+    background-color: #f88181;
     margin : 0px auto;
     padding: 20px 0px 20px 0px;
 }
@@ -19,7 +19,7 @@
 .jumbotron {
     padding: 70px 30px 70px 30px;
     margin: 0px;
-    background: purple;
+    background: #f85741;
     color:floralwhite ;
 }
 
@@ -35,26 +35,9 @@
 }
 
 .navbar-dark{
-    background-color:darkviolet;
+    background-color:#f16957;
 }
 
 .button{
-    background-color: violet;
-}
-
-.carousel{
-    background: #512DA8;
-
-}
-
-.carousel-item{
-    height: 300px;
-
-}
-
-.carousel-item img{
-    position: absolute;
-    top: 0;
-    left: 0;
-    min-height: 300px;
+    background-color: rgb(243, 122, 101);
 }
